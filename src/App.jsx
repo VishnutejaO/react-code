@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
 import Home from './components/Home.jsx'
-import Login from './components/login.jsx'
+import Login from './components/Login.jsx'
 import Register from './components/Register.jsx'
 import Navbar from './components/Navbar.jsx'
 
